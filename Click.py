@@ -1,4 +1,4 @@
 def click():
     #  TODO:
     #
-    print("Click")
+    print("Click..")
